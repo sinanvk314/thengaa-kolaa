@@ -15,3 +15,5 @@ texture = ExtResource("2_ytgb6")
 shape = SubResource("RectangleShape2D_3pafw")
 
 [node name="Timer" type="Timer" parent="." unique_id=387211390]
+
+[node name="Node" type="Node" parent="Timer" unique_id=1123268362]
