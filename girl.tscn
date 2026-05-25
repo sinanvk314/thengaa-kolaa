@@ -46,6 +46,7 @@ animations = [{
 [node name="CharacterBody2D" type="CharacterBody2D" parent="." unique_id=1482660115]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D" unique_id=1272651026]
+visible = false
 position = Vector2(-3.5, 2.5)
 shape = SubResource("RectangleShape2D_lxby2")
 
@@ -53,4 +54,4 @@ shape = SubResource("RectangleShape2D_lxby2")
 position = Vector2(108, 7)
 sprite_frames = SubResource("SpriteFrames_gx2tn")
 autoplay = "default"
-frame_progress = 0.7016727
+frame_progress = 0.59649855
